@@ -1,0 +1,22 @@
+Inside a Computer System : TryHackMe : 24.06.2026 : 00:10
+
+This room about PC components & how it working
+In PC there are minimum 7 components without which PC dont will work
+First main component its CPU (Central Processing Unit), its like a human brain because it make a milions, billions i will say computing or instractions per a second
+and during computing, instractions CPU always make a lot warm which we need take because if CPU overheat it can dead and never work again
+for help come a CPU Cooler, this thing by coller and copper pipes take a warm from CPU and makes cool but without one thing CPU Cooller will like just coller which spin a coller 
+this thing called a thermal paste, this paste look like a tooth paste but for CPU Cooller, thermal paste fills microscopic gaps, improves heat transfer and reduces thermal resistance
+Second component its RAM (Random Access Memory) its like short memory for CPU but newer CPU have own crystal with L-1,L-2,L-3 cache but without RAM, PC dont will work
+Thirty component its GPU (Graphics Processing Unit) its like human eyes, i think, for help GPU we can render very hard scenes in games or also makes milions, billions instractions per second 
+but, but some CPUs also have "GPU" it doesnt GPU how we can think, CPU with GPU called iGPU (Integrated Graphics Processing Unit) but this "GPU" doesnt have own video memory, it takes system memory and using like video memory
+4 component its PSU (Power Supply Unit) its like energy for human body, it takes electrycity from 220 volts and deliver powe to GPU, motherboard, ssd, hhd and PC case
+5 components it SSD (Solid-State Drive) and HDD (Hard Disk Drive) this components called long memory because it can storage a lot gigabytes of data but difference then SSD and HDD that SSD more fast then HDD
+6 component its very important Motherboard this component like human body, controlling all proccers in the system, it give a power for all components, give communications beetween all components and Motherboard have own system
+this system called BIOS or new UEFI, this system give you possibility to control a system for example user can change Boot Order set the PC to boot from a USB drive to install Windows or GNU/Linux,
+you can do overclocking to get more perfomance from CPU and RAM, you can control CPU Cooller speed or PC case coollers speeds (only if PC case collers connected to motherboard
+you can monitoring hardware temperature in real-time and you can place security features enable or disable (Security features it Secure Boot - checking all hardware certificates, TPM 2.0 (Trusted Platform Module))
+and last component its thermal paste (i said about it with CPU).
+
+i learned from this room nothing because i already know about it before how i started to learn cybersecurity
+
+i think every cybersecurity specialist is obliged to know from what do PC is made
