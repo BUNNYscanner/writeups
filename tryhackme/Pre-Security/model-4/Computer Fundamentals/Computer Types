@@ -1,0 +1,28 @@
+Computer Types : TryHackMe : 24.06.2026 : 14:05
+
+this room about computers types and show difference between computers with screen and keyboard and without it
+server, server its computer with very powerfull CPU and processes milions user requests but without screen and keyboard
+
+## Laptop / Notebook 
+
+laptop its computer with mobility, for example you rn at home and you want to work in another place, you take laptop in your bag and go.
+laptop have another name Notebook, notebook because laptop can close like note, laptop perfect for emails or documents but for difficult task, laptop can lose
+
+## Desktop
+
+this computer without mobility, all components store in PC case and you cant take PC case with full PC components and go somewhere because it heavy and uncomfortabe to walk with it.
+desktop it perfect computer for games, video editing, 3d processes and many another tasks, but for more difficult task desktop can lose like a laptop
+and for components, in laptop people use mobile version of components, in laptop you cant see discrete GPU because its laptop, small computer and like note
+in laptop almost all components in mobile versions, CPU, GPU, RAM (SO-DIMM), Motherboard, PSU but in laptop people use battery, not PSU, PSU come separately and charge laptop battery.
+
+## Workstation
+
+workstation its powerfull computer with not common components, with servers components, workstation works in extreme reliability always 24/7 and need for 3D modeling and animation,
+video editing and post-production, engineering and architecture and data science and AI
+
+## Smartphones / Tablet
+
+smartphones and tablet it a computer but with very mobility and also with mobile versions of components but smartphones use not CPU like in PC, laptop, server and Workstation
+smartphones use ARM architecture of proccesors because this architecture dont will highlight a lot warm like PC CPU
+
+from here i found out that we can get access only remote not in screen or keyboard, in cybersecurity it need to know and know how it works
